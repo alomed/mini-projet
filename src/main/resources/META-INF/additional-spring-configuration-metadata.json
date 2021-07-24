@@ -1,0 +1,57 @@
+{"properties": [
+  {
+    "name": "server",
+    "type": "java.lang.String",
+    "description": "A description for 'server'"
+  },
+  {
+    "name": "port",
+    "type": "java.lang.String",
+    "description": "A description for 'port'"
+  },
+  {
+    "name": "servlet",
+    "type": "java.lang.String",
+    "description": "A description for 'servlet'"
+  },
+  {
+    "name": "context-path",
+    "type": "java.lang.String",
+    "description": "A description for 'context-path'"
+  },
+  {
+    "name": "spring",
+    "type": "java.lang.String",
+    "description": "A description for 'spring'"
+  },
+  {
+    "name": "security",
+    "type": "java.lang.String",
+    "description": "A description for 'security'"
+  },
+  {
+    "name": "oauth2",
+    "type": "java.lang.String",
+    "description": "A description for 'oauth2'"
+  },
+  {
+    "name": "resourceserver",
+    "type": "java.lang.String",
+    "description": "A description for 'resourceserver'"
+  },
+  {
+    "name": "jwt",
+    "type": "java.lang.String",
+    "description": "A description for 'jwt'"
+  },
+  {
+    "name": "issuer-uri",
+    "type": "java.lang.String",
+    "description": "A description for 'issuer-uri'"
+  },
+  {
+    "name": "jwk-set-uri",
+    "type": "java.lang.String",
+    "description": "A description for 'jwk-set-uri'"
+  }
+]}
